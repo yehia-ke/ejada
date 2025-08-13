@@ -1,0 +1,11 @@
+{
+  "color-highlight.languages": [
+
+    "*"
+  ],
+  "color-highlight.hslWithNoFunctionLanguages": [
+
+    "*"
+  ],
+  "color-highlight.markerType": "background"
+}
